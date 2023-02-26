@@ -12,7 +12,7 @@ const Navigate = () => {
   return (
     <>
       <div className="flex flex-col lg:flex-row p-5 mb-12 gap-5 items-center justify-center ">
-        <a href="" >
+        <a href="https://angeles-sin-voz.netlify.app/" >
 
           <div className="flex  flex-col w-[260px] md:flex-row justify-center items-center md:gap-8 rounded-full shadow-lg shadow-[#223196] hover:scale-105 duration-200 px-12 p-3 cursor-pointer ">
             <div className="flex gap-4 items-center justify-center    ">
